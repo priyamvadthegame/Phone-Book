@@ -1,4 +1,4 @@
-package test;
+
 import  java.util.concurrent.TimeUnit;
 import java.util.Scanner;
 import java.io.*;
